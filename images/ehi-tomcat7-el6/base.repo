@@ -1,0 +1,7 @@
+[preprod-rhel-x86_64-server-6]
+name=Pre-production RHEL 6 x86_64
+baseurl=http://prdfsxr0.corp.erac.com/pub/yum/channels/preprod-rhel-x86_64-server-6
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+enabled=1
+

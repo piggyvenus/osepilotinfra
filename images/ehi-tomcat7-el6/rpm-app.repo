@@ -1,0 +1,5 @@
+[rpm-app]
+name=rpm Application Packages
+baseurl=http://prdfsxr0.corp.erac.com/pub/rpm-app/
+enabled=1
+gpgcheck=0

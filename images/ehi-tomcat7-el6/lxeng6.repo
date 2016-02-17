@@ -1,0 +1,7 @@
+[preprod-rhel6-lxeng]
+name=EHI Linux Engineering RHEL 6 - x86_64 - Production
+baseurl=http://prdfsxr0.corp.erac.com/pub/yum/channels/prod-rhel6-lxeng
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ehi-lxeng
+enabled=1
+
